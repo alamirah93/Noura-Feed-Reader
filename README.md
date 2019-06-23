@@ -7,7 +7,7 @@ It is a web-based application that reads RSS feeds. The main objective is using 
 - Click on index.html and open it in browser to see the website and test it.
 
 ### Test cases
-![Image of test](<img src="img/test.png" width="60%">)
+![Image of test](img/test.png)
 
 
 ### Refrences
